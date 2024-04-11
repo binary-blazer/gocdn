@@ -1,5 +1,7 @@
 ![gocdn](https://raw.githubusercontent.com/binary-blazer/repo-svgs/main/out/gocdn/image.svg)
 
+![gocdn](https://raw.githubusercontent.com/binary-blazer/repo-svgs/main/out/gocdn/image.svg)
+
 # 🚀 gocdn
 > A advanced cdn server written in golang.
 
